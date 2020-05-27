@@ -1,0 +1,128 @@
+body
+{
+  margin: 0;
+  text-align: center;
+background-color: #ABF0E9;
+font-family: sans-serif;
+}
+hr
+{
+margin-top: 30px;
+padding-bottom: 30px;
+  border-style: dotted none none;
+  border-width: 10px;
+  width: 5%;
+  border-color: #F7F7F7;
+}
+.intro
+{height: 550px;
+  margin-top: 0;
+  padding-top: 0;
+  background-color: #27496D;
+}
+h1
+{
+  position: absolute;
+  top:30px;
+  left:500px;
+  font-family: 'Sacramento', cursive;
+  margin-top: 0;
+  padding-top: 60px;
+  font-size: 5.625rem;
+  color: #FCE8D5;
+}
+h2
+{
+  color: #EE8572;
+  font-family: 'Merriweather', serif;
+  font-size: 2rem;
+}
+h3
+{
+  color:#3F3F44;
+}
+h4
+{
+  color:#3F3F44;
+}
+.cloud1
+{
+  position: absolute;
+  top: 210px;
+  left: 420px;
+}
+.cloud2
+{
+  position: absolute;
+  top: 20px;
+  left: 900px;
+}
+.my
+{
+  color: #DAE1E7;
+  padding-top: 30px;
+  position:absolute;
+  top: 150px;
+  left: 650px;
+}
+
+.mountain
+{
+  position: absolute;
+  top: 190px;
+  left: 460px;
+
+}
+.penguin
+{
+  padding: 30px;
+  height: 300px;
+  width: 300px;
+
+}
+.learn1
+{
+
+
+line-height: 2;
+  width: 50%;
+  text-align: left;
+}
+.learn2
+{
+  margin-left: 50%;
+  line-height: 2;
+  width:50%;
+  text-align: left;
+}
+.web
+{
+  padding: 20px;
+  margin-right:  20px;
+  float: right;
+  width: 25%;
+}
+.python
+{
+  padding:20px;
+  margin-left: 20px;
+  float: left;
+  width: 25%;
+}
+.Skills
+{
+  margin: 30px;
+}
+.birds
+{
+  position: absolute;
+  right: 10%;
+  top: 20%;
+  width: 25%;
+}
+.cloud3
+{
+  position:absolute;
+  left:10%;
+  top: 20%;
+}
